@@ -1,5 +1,3 @@
-// Write your solution here!
-// Write your solution here!
 const cats=['Milo', 'Otis', 'Garfield'];
 
 //appends a cat to the end of the cats array
